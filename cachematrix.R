@@ -1,5 +1,5 @@
 
-## makeCacheMatrixtakes a matrix which is invertible - http://mathworld.wolfram.com/MatrixInverse.html
+## makeCacheMatrix takes a matrix which is invertible - http://mathworld.wolfram.com/MatrixInverse.html
 ## produces a list representation for consumption by function cacheSolve which either returns a matrix
 ## inverse if already precalculated and cached, or generates a new inverse and caches that matrix.
 ##
