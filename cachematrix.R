@@ -33,7 +33,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## cacheSolve takes a makeCacheMatrix list representation of matrix generated in call
+## cacheSolve takes a makeCacheMatrix list representation of matrix generated in function
 ## makeCacheMatrix. An inverse matrix is returned for an invertible matrix only.
 ##
 ## example usage
