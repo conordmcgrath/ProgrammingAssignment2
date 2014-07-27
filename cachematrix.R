@@ -45,8 +45,8 @@ makeCacheMatrix <- function(x = matrix()) {
 ##    [2,]   -1    1    0
 ##    [3,]   -1    0    1
 ##
-##  subsequent calls of cacheSolve(matrixB) will read cached data and report "getting cached data" to the 
-console.
+##  subsequent calls of cacheSolve(matrixB) will read cached data and report "getting cached data"
+## to the console.
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
